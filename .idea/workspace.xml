@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e51382b7-aa9b-49fc-b9cf-41632bc15fa6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veremszamitogep.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Add.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Call.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Div.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Get.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jump.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Load.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OnNegative.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OnNonZero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OnZero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Push.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Put.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Read.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Return.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Store.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Write.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2WnOM3TI7SFIvWzkfNyz7i3U1jA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "full.screen.before.presentation.mode": "false",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "proofread",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kanyi\IdeaProjects\Veremszamitogep" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.With arguments">
+    <configuration name="Veremszamologep" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Veremszamitogep" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="With arguments" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Veremszamitogep" />
+      <option name="PROGRAM_PARAMETERS" value="&quot;input.txt&quot;" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Veremszamologep" />
+      <item itemvalue="Application.With arguments" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e51382b7-aa9b-49fc-b9cf-41632bc15fa6" name="Changes" comment="" />
+      <created>1697364826920</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697364826920</updated>
+      <workItem from="1697364827977" duration="205000" />
+      <workItem from="1697365107679" duration="5727000" />
+      <workItem from="1697374499024" duration="9840000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

@@ -1,0 +1,13 @@
+call @main
+@main
+read
+put x
+call @funct
+get x
+write
+@funct
+read
+dup
+mult
+write
+return
